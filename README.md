@@ -1,4 +1,4 @@
-This is a multiple choice question quiz app. The questions are taken from the syllabus of the Combined Competitive Examination organized by the Assam Public Service Commission for recruitment into various Government Jobs in the state of Assam, India. Every year, thousands of aspirants appear for this examination.
+This is a multiple choice question quiz app. The questions are taken from the syllabus of the Combined Competitive Examination organized by the Assam Public Service Commission for recruitment into various Government Jobs in the state of Assam, India. Every year, thousands of aspirants appear for this examination.This is a great application. You will learn a lot.
 
 The app can be downloaded from Google Play Store using the following link:
 
